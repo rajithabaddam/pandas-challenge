@@ -1,0 +1,8 @@
+As per data analysis and we captured differnt metrics for different scenarios
+
+1) I see more number of Male players participated and purchased the items, the other/None category involvement is minimal
+
+
+2) More number of players between age 20-24 are participated and the rate of players participation went down as age increases
+
+3) Out of 183 unique items the most popular and profitable item is same.
